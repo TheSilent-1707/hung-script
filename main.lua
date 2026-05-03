@@ -20,19 +20,13 @@ local Window = Rayfield:CreateWindow({
       FileName = "Big Hub"
    },
 
-   Discord = {
-      Enabled = false, 
-      Invite = "noinvitelink", 
-      RememberJoins = true 
-   },
-
    KeySystem = true, 
    KeySettings = {
       Title = "bietbomay0",
       Subtitle = "Key System",
       Note = "dek co note", 
       FileName = "Key", 
-      SaveKey = false,
+      SaveKey = true,
       GrabKeyFromSite = false, 
       Key = {"hungdeptrai"}
    }

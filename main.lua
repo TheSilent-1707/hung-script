@@ -32,7 +32,7 @@ local Window = Rayfield:CreateWindow({
       Subtitle = "Key System",
       Note = "dek co note", 
       FileName = "Key", 
-      SaveKey = true,
+      SaveKey = false,
       GrabKeyFromSite = false, 
       Key = {"hungdeptrai"}
    }

@@ -24,9 +24,9 @@ local Window = Rayfield:CreateWindow({
    KeySettings = {
       Title = "bietbomay0",
       Subtitle = "Key System",
-      Note = "dek co note", 
+      Note = "dek co key", 
       FileName = "Key", 
-      SaveKey = true,
+      SaveKey = false,
       GrabKeyFromSite = false, 
       Key = {"hungdeptrai"}
    }
